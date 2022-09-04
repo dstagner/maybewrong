@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "52806d5de7ce4d20",
+    "type": "split",
+    "children": [
+      {
+        "id": "c27d5c92d413a83e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Media/TV/Moonhaven.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "940524ef80d8fa44",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1a7a2992bad95b25",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "50ce640f426e0de7",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "88ead22825fee06c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d48ff886283e0220",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9329e6456e65a819",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "121b0c47167f6b43",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Media/TV/Moonhaven.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6bd24475d855a0cf",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Media/TV/Moonhaven.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "39cf4d2d3e87d303",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Media/TV/Moonhaven.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "c27d5c92d413a83e",
+  "lastOpenFiles": [
+    "Deploying my digital garden.md",
+    "Discography.md",
+    "The Sex Pistols weren't punk.md",
+    "Media/TV/Moonhaven.md",
+    "Betting on advanced nuclear power.md",
+    "Health and Fitness/Primary aldosteronism.md",
+    "Media/Books/Recommended reading.md",
+    "Media/Books/What We Owe the Future.md",
+    "I may be wrong; I am often wrong.md"
+  ]
+}
