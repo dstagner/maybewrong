@@ -19,101 +19,116 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "940524ef80d8fa44",
-    "type": "mobile-drawer",
+    "id": "bb2a900ca5b77e9c",
+    "type": "split",
     "children": [
       {
-        "id": "1a7a2992bad95b25",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "50ce640f426e0de7",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "bc4bc24c9ed545ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b1be7f151d29940",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3cdcfdc2507b7baf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bdbadf8fc6726f73",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "88ead22825fee06c",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "d48ff886283e0220",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "9329e6456e65a819",
-    "type": "mobile-drawer",
+    "id": "2312ac80eda1b874",
+    "type": "split",
     "children": [
       {
-        "id": "121b0c47167f6b43",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "garden.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "64e89bd871169b2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff31c8d555b8bf40",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "garden.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "56a62ba5cd62d9f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "garden.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f918dc5412e61457",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b6e55debdec9a3cb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "garden.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "6bd24475d855a0cf",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "garden.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "39cf4d2d3e87d303",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "garden.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "c27d5c92d413a83e",
+  "active": "5b1be7f151d29940",
   "lastOpenFiles": [
     "Discography.md",
     "garden.md",
@@ -121,7 +136,7 @@
     "Deploying my digital garden.md",
     "The Sex Pistols weren't punk.md",
     "Betting on advanced nuclear power.md",
-    "Health and Fitness/Primary aldosteronism.md",
+    "health/Primary aldosteronism.md",
     "Media/Books/Recommended reading.md",
     "Media/Books/What We Owe the Future.md",
     "I may be wrong; I am often wrong.md"
