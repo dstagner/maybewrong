@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "garden.md",
+            "file": "Discography.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "garden.md",
+            "file": "Discography.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "garden.md",
+            "file": "Discography.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -106,7 +106,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "garden.md"
+            "file": "Discography.md"
           }
         }
       }
@@ -115,6 +115,7 @@
   },
   "active": "c27d5c92d413a83e",
   "lastOpenFiles": [
+    "garden.md",
     "Media/TV/Moonhaven.md",
     "Deploying my digital garden.md",
     "Discography.md",
