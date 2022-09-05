@@ -21,3 +21,5 @@ subbuild.sh
 Flavio Copes documented [this method for triggering Netlify builds from git submodule commits](https://flaviocopes.com/netlify-deploy-git-submodule-github-actions/). 
 
 Current headache: getting Netflify to run git submodule update --remote
+
+### Using iCloud with git
