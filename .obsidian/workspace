@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Media/TV/Moonhaven.md",
-            "mode": "source",
+            "file": "Digital Garden on iPad with Obsidian and git.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Media/TV/Moonhaven.md",
+            "file": "Digital Garden on iPad with Obsidian and git.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Media/TV/Moonhaven.md",
+            "file": "Digital Garden on iPad with Obsidian and git.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -106,7 +106,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Media/TV/Moonhaven.md"
+            "file": "Digital Garden on iPad with Obsidian and git.md"
           }
         }
       }
@@ -115,10 +115,10 @@
   },
   "active": "c27d5c92d413a83e",
   "lastOpenFiles": [
+    "Media/TV/Moonhaven.md",
     "Deploying my digital garden.md",
     "Discography.md",
     "The Sex Pistols weren't punk.md",
-    "Media/TV/Moonhaven.md",
     "Betting on advanced nuclear power.md",
     "Health and Fitness/Primary aldosteronism.md",
     "Media/Books/Recommended reading.md",
