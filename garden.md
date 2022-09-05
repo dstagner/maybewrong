@@ -1,5 +1,5 @@
 ---
-title: Creating a digital garden on iPad with Obsidian and git
+title: garden
 ---
 
 When I started using Obsidian, it was great for developing my ideas and sharpening my thoughts. But it got me wanting to try once again to create a public site. This led me to the idea of a digital garden, and how others have adapted Obsidian's Markdown flexibility to create websites that reflect how we actually think. 
