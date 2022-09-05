@@ -9,6 +9,12 @@ This plan assumes you are comfortable with the basic tools of programming, or at
 
 ## Using gitmodules to separate Obsidian and Jekyll
 
+### Creating the submodule
+```
+git submodule add -b [branch] [URL] [DirectoryName]
+```
+
+### Triggering Netlify builds from submodule changes
 Flavio Copes documented [this method for triggering Netlify builds from git submodule commits](https://flaviocopes.com/netlify-deploy-git-submodule-github-actions/). 
 
-Test the hook.
+Current headache: getting Netflify to run git submodule update --remote
