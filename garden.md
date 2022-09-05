@@ -14,6 +14,9 @@ This plan assumes you are comfortable with the basic tools of programming, or at
 git submodule add -b [branch] [URL] [DirectoryName]
 ```
 
+### Custom build script
+subbuild.sh
+
 ### Triggering Netlify builds from submodule changes
 Flavio Copes documented [this method for triggering Netlify builds from git submodule commits](https://flaviocopes.com/netlify-deploy-git-submodule-github-actions/). 
 
