@@ -1,5 +1,5 @@
 ---
-title: TV Review%3A Moonhaven
+title: "TV Review: Moonhaven"
 ---
 It's refreshing to see a science fiction tv series that is actually science fiction, not just cowboys in space. 
 
