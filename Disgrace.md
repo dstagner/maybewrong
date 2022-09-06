@@ -6,3 +6,5 @@ It seems to me that every prime minister's career ends in disgrace, and that it'
 It's an interesting contrast with the American constitutional system, with its fixed terms and term limits. It's quite possible for a president to finish two terms, and then retire in triumph - Reagan did that, and arguably Obama. Bush was marred by the 2008 economic crisis, and Clinton by the Monica Lewinsky scandal, but they were still in power, and look mostly successful in hindsight. 
 
 And that's another thing about the American system - presidents are far more able to weather a scandal or a crisis, because impeachment is so difficult it's effectively impossible. In a parliamentary system, there's no way Trump would have survived his first impeachment, much less his second. Then again, he wouldn't have been subject to an election to try to overthrow in a parliamentary system. 
+
+#politics
