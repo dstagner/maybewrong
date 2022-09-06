@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Sixth Great Extinction.md",
+            "file": "Media/TV/Moonhaven.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Sixth Great Extinction.md",
+                "file": "Media/TV/Moonhaven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Sixth Great Extinction.md",
+                "file": "Media/TV/Moonhaven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Sixth Great Extinction.md"
+                "file": "Media/TV/Moonhaven.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "c27d5c92d413a83e",
   "lastOpenFiles": [
+    "The Sixth Great Extinction.md",
     "Media/Books/Recommended reading.md",
     "Boil your mushrooms.md",
     "Media/TV/Moonhaven.md",
@@ -138,7 +139,6 @@
     "Disgrace.md",
     "garden.md",
     "Discography.md",
-    "Deploying my digital garden.md",
-    "The Sex Pistols weren't punk.md"
+    "Deploying my digital garden.md"
   ]
 }
