@@ -30,3 +30,5 @@ What I'm thinking about now is species diversity and ecosystem preservation. Tha
 Every species lost to extinction is a species the people of the future will know only from history books. And every ecosystem lost takes with it more species, causes more extinctions. For most of the species lost, there will be no record, because we don't even know about them. That's why the dream of restoring extinct species from their DNA is just hubris. It's not just the big, recognizable animal that matters. It's all the uncountable, unknowable species of insects, of plants, of bacteria that make the world they live in. What's the point of having a mammoth that only lives in a zoo? 
 
 Unlike clean energy, ecosystem preservation will never be profitable. We can't count on the market to do for us what needs done. It's purely a matter of political pressure, by individuals and institutions. Moreover, it's a place where direct action really, really matters. When the highway is going through regardless, maybe all we can do is dig up those little bristleberry plants and move them somewhere nearby, and hope we can save some of them. 
+
+#longtermism #biodiversity
