@@ -1,5 +1,11 @@
 A non-exhaustive list of records I've been on... (newest to oldest)
 
+### upcoming projects
+* Beth Kinderman, *Sisyphus (Ten Songs About Hope)* (2022) 
+* Gernsback Continuum, *Rocket Surgery* (2022)
+* Dave Stagner, *Untitled #1* (2023)
+* Astrisoni (untitled) (2023)
+
 ### as Dave Stagner
 * *I Wanna Vaccination* (2021) - A comedy single, a parody of the Ramone's "I Wanna Be Sedated", written by my friend Brian Smith and performed with Justin Hartley, in true punk fashion.
 * *I'm Sorry Moon* (2021) - A two-track EP featuring "I'm Sorry Moon", which I had written and recorded just before my first vocal surgery, and "Sublime", which won the 2018 OVFF songwriting contest. (The theme was "psychedelic".)
@@ -30,7 +36,9 @@ A non-exhaustive list of records I've been on... (newest to oldest)
 The Feng Shui Ninjas were always much more of a live band than a recording act, but we had some very good moments. I really, really wish we had recordings of our legendary NO MERCY CHRISTMAS shows, which were spectacularly chaotic events. 
 
 * *I Like It* (2014) - Our last single, an absolutely absurd bit of music. I was fond of making up different lyrics on the spot live, and tried to never repeat myself. 
-* *Livin Every Dae As Though Yer Deid* (2011) - An EP we recorded as the audience entry music for my spouse's dance show "Dancing with Death". It suffers from my rather bad production/mixing of the era, but has some delightful material - the title track is probably the second most Ninjas thing we ever recorded
+* *Livin Every Dae As Though Yer Deid* (2011) - An EP we recorded as the audience entry music for my spouse's dance show "Dancing with Death". It suffers from my rather bad production/mixing of the era, but has some delightful material - the title track is probably the second most Ninjas thing we ever recorded, and "Ode to a Dead Roomie" is one of Tami's most perfect songs. 
+* *Home Shuriken Kit* (2010) - This is THE Feng Shui Ninjas album. Featuring our beloved perfect "Eponymous #1", and a whole bunch of other stuff that just screams Ninjas. It's not fully mature by our standards, but mature was never our strong point and the band was always evolving sonically anyway. 
+* *Garbage Pizza* (2009) - Much of this album was recorded before Tami joined, the rest just barely after, so it's sort of a mixed bag as "Ninjas" goes. And it suffers from some truly naive mixing and production on my part. But, it definitely has its moments! 
 
 ### as Explosive Space Modulator
 I sometimes play solo improvised space music under this name. 
@@ -43,30 +51,10 @@ Al Amarja was my pseudonym for music I composed for various bellydance shows my 
 
 * *Al Amarja* (2016). A "best of" collection of Al Amarja recordings. I think some of this holds up very well, particularly "Surviving", "Monster Within", and "Ghul".
 
-* Gernsback Continuum, *Hero*
-* Dave Stagner, *I Wanna Vaccination*
-* Dave Stagner, *I'm Sorry Moon*
-* Dave Stagner, *Hotel Concellation*
-* Beth Kinderman, *It Came from the FuMP*
-* Dave Stagner, *This Is How Elvis Died*
-* Astrisoni, *Sounding with the Stars* (as producer)
-* Beth Kinderman, *The Hero's Journey*
-* Beth Kinderman, *Stop Covering Hallelujah*
-* Explosive Space Modulator, *Trapped*
-* Dave Stagner, *Loose Ends*
-* Al Amarja, *Al Amarja*
-* Beth Kinderman, *Departure: A Hero's Journey EP*
-* Beth Kinderman, *Underneath the Mask (2018 Anniversary Edition)*
-* Beth Kinderman, *The Dread Gazebo*
-* Explosive Space Modulator, *Live at the Mounds Theater*
-* Beth Kinderman, *Refusal of the Call*
-* Candles Enough, *Fire on the Hill*
-* Beth Kinderman & the Player Characters, *Return of the Son of More Songs About Robots & Death*
-* Feng Shui Ninjas, *I Like It*
-* Beth Kinderman & the Player Characters, *Winter Is Coming*
-* Feng Shui Ninjas, *Livin Every Dae as Though Yer Deid*
-* Feng Shui Ninjas, *Home Shuriken Kit*
-* Beth Kinderman & the Player Characters, *More Songs About Robots & Death*
-* Beth Kinderman & the Player Characters, *Apocalypse Blues*
-* Feng Shui Ninjas, *Garbage Pizza*
-* Beth Kinderman, *All of My Heroes Are Villains*
+### with Astrisoni (as producer)
+Beth and I met our fellow Minneapolis-based filk band at OVFF, of all places, and loved their sound and incredible songwriting. Beth and I produced their first EP. For once, I didn't play on it at all! 
+* *Sounding with Stars* (2011) - A four song EP of terrific songs, especially "Pure of Heart", which is one of my favorite filk songs of all time. 
+
+### with Candles Enough (as producer)
+Beth and I produced our old friends Kelly and Sarah (Candles Enough), who have often played with us and have also recorded as guest artists on some of Beth's albums. Beth and I both played on this record a bit as well. 
+* *Fire on the Hill* (2012) - I think this was the first album where I got a *really* good mix. All four tracks sound clear, powerful, and distinct. "Wavesong" in particular was really magical - recorded entirely live, except for one percussion overdub and a bass synth I added later. So vocals, acoustic guitar, percussion, and my synth-like looped guitar, all full of mic bleed. Beth and I did some fine tag-team production as well, carefully managing the musicians to get optimum performances. 
